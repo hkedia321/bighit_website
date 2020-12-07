@@ -13,3 +13,30 @@
     width: 100px;
   }
 }
+.zomato-logo {
+  width: 20px;
+  margin-right: 20px;
+}
+.address-heading {
+  padding-left: 20px;
+}
+.about-content {
+  padding-left: 20px;
+}
+.address-heading * {
+  color: #337ab7 !important;
+}
+.address-heading * {
+  color: #337ab7 !important;
+}
+.restaurant-desc-photo {
+  margin: auto;
+  margin-top: -200px;
+}
+.about-area {
+  padding-left: 20px;
+  padding-right: 50px;
+}
+.about-content button {
+  margin-right: 20px;
+}
