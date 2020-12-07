@@ -29,14 +29,22 @@
 .address-heading * {
   color: #337ab7 !important;
 }
-.restaurant-desc-photo {
-  margin: auto;
-  margin-top: -200px;
-}
-.about-area {
-  padding-left: 20px;
-  padding-right: 50px;
+@media (min-width: 769px) {
+  .restaurant-desc-photo {
+    margin: auto;
+    margin-top: -200px;
+  }
+  .about-area {
+    padding-left: 20px;
+    padding-right: 50px;
+  }
 }
 .about-content button {
   margin-right: 20px;
+}
+
+@media (max-width: 769px) {
+  .about-content {
+    margin-bottom: 20px;
+  }
 }
