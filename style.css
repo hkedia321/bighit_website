@@ -2074,3 +2074,57 @@ ul.blog-instagram-feed-widget li {
 .home-alt .single-promotions:hover .promotions-img::after {
   opacity: 0.5;
 }
+/*mystyle*/
+.navbar-logo {
+  width: 100px;
+}
+.footer-logo-img {
+  width: 200px;
+}
+
+@media (max-width: 992px) {
+  .navbar-logo {
+    width: 70px;
+  }
+  .footer-logo-img {
+    width: 100px;
+  }
+}
+.zomato-logo {
+  width: 20px;
+  margin-right: 20px;
+}
+.address-heading {
+  padding-left: 20px;
+}
+.about-content {
+  padding-left: 20px;
+}
+.address-heading * {
+  color: #337ab7 !important;
+}
+.address-heading * {
+  color: #337ab7 !important;
+}
+@media (min-width: 991px) {
+  .restaurant-desc-photo {
+    margin: auto;
+    margin-top: -200px;
+  }
+  .about-area {
+    padding-left: 20px;
+    padding-right: 50px;
+  }
+}
+.about-content button {
+  margin-right: 20px;
+}
+.about-content button{
+  margin-bottom: 10px;
+}
+@media (max-width: 991px) {
+  .about-content {
+    margin-bottom: 20px;
+  }
+  
+}
